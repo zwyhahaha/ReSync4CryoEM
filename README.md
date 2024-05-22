@@ -1,4 +1,4 @@
-# ReSync: Riemannian Subgradient Synchronization Algorithm
+# Orientation Determination of Cryo-EM Images Using Block Stochastic Riemannian Subgradient Methods
 
 ## Disclaimer
 

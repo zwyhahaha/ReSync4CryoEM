@@ -14,7 +14,7 @@ To accelerate ReSync algorithm, we provide C-implementation for gradient estimat
 
 ## Usage
 
-(1) run the following command in the command line of Matlab
+(1) run the following command in the command line of Matlab, and you can find `Utils` folder in our supplementary material
 
 ```matlab
 initpath

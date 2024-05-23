@@ -29,7 +29,7 @@ initpath
 
 ## Issues
 
-If you have encountered with some `function or file not found` error, you can first check `initpath` command. If the path setting is ok, then it is probably due to you have not complied some code in C. To address this issue, you can find that file (e.g. `Q_theta.c`), and run the following in Matlab command line:
+If you have encountered with some `function or file not found` error, you can first check `initpath` command. If the path setting is ok, then it is probably because you have not complied some code in C. To address this issue, you can find that file (e.g. `Q_theta.c`), and run the following in Matlab command line:
 
 ```matlab
 mex Q_theta.c

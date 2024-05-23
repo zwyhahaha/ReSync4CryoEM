@@ -11,6 +11,9 @@ The experiment frameowrk is downloaded from
 We upload these dependencies in order to be self-contained. In this experiment framework, we add ReSync-norm as well as stochastic ReSync algorithms (SGD, BCD, BSGD) in the `Algorithm` folder.
 
 To accelerate ReSync algorithm, we provide C-implementation for gradient estimation.
+# Get Utils Functions
+- you need to download the Matlab code from ASPIRE Toolkit: https://spr.math.princeton.edu/
+- then add the path to ASPIRE to the search path of Matlab
 
 ## Usage
 
